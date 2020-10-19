@@ -1,0 +1,9 @@
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\bin\Debug\ManageDAO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\bin\Debug\ManageDAO.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\obj\Debug\ManageDAO.csprojAssemblyReference.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\obj\Debug\ManageDAO.csproj.CoreCompileInputs.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\obj\Debug\ManageDAO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\obj\Debug\ManageDAO.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\bin\Debug\ManageDTO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\bin\Debug\ManageDTO.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDAO\obj\Debug\ManageDAO.csproj.CopyComplete

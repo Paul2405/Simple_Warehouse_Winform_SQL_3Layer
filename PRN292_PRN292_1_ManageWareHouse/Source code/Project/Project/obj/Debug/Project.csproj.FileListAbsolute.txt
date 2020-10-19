@@ -1,0 +1,50 @@
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\Project.exe.config
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\Project.exe
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\Project.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.exe
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\ManageDAO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\ManageDAO.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.Fuction.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.ImportFrom.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.frmImport.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.CreateProduct.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.SubmitImport.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.FrmExport.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.SubmitExport.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.ManageProduct.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.Statistic.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\obj\Debug\Project.HistoryImport.resources
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\ManageDTO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\Project\bin\Debug\ManageDTO.pdb
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\Project.exe.config
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\Project.exe
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\Project.pdb
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\ManageDAO.dll
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\ManageDTO.dll
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\ManageDAO.pdb
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\bin\Debug\ManageDTO.pdb
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.CreateProduct.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.FrmExport.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.Fuction.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.frmImport.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.HistoryImport.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.ImportFrom.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.ManageProduct.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.Statistic.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.SubmitExport.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.SubmitImport.resources
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.exe
+C:\Users\PauL\Desktop\DIDPRN\PRN292_PRN292_1_ManageWareHouse\Source code\Project\Project\obj\Debug\Project.pdb

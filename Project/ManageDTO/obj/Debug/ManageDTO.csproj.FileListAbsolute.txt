@@ -1,0 +1,6 @@
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\bin\Debug\ManageDTO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\bin\Debug\ManageDTO.pdb
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\obj\Debug\ManageDTO.csprojAssemblyReference.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\obj\Debug\ManageDTO.csproj.CoreCompileInputs.cache
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\obj\Debug\ManageDTO.dll
+C:\Users\PauL\Desktop\DIDPRN\Project\ManageDTO\obj\Debug\ManageDTO.pdb
